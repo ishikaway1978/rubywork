@@ -1,5 +1,5 @@
 def hello
- puts 'Hello3'
+ puts 'Hello4'
 end
 
 hello
